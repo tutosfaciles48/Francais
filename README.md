@@ -1,3 +1,5 @@
+--Fork depuis Squalalah/Francais--
+**Traduction française du jeux** __Software Inc__
 # Francais
 update 8.10 en français
 
